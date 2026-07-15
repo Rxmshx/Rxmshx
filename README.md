@@ -13,6 +13,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rxmshx)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramshaannam@yahoo.com)
 [![Location](https://img.shields.io/badge/Dubai%2C_UAE-000000?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+![Profile Views](https://komarev.com/ghpvc/?username=rxmshx&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS)
 
 </div>
 
@@ -40,19 +41,38 @@
 
 <br/>
 
+### 🏆 Recognition
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="60"><b>🏆</b></td>
+<td><b>Top 50 Finalist — Smart India Hackathon</b><br><sub>National-level hardware/software hackathon · 2023, 2024 & 2025</sub></td>
+</tr>
+<tr>
+<td align="center"><b>🥇</b></td>
+<td><b>Most Socially Relevant Project — VIT-AP Engineering Clinics Expo</b><br><sub>Sign Language Translation Smart Glove · 2025</sub></td>
+</tr>
+<tr>
+<td align="center"><b>📜</b></td>
+<td><b>OCI Certified Data Science Professional</b><br><sub>Oracle Cloud Infrastructure</sub></td>
+</tr>
+<tr>
+<td align="center"><b>📜</b></td>
+<td><b>IBM AI Engineering Professional Certificate</b><br><sub>IBM</sub></td>
+</tr>
+</table>
+</div>
+
+<br/>
+
 ### 🛠️ Tech Stack
+
+<details open>
+<summary><b>🧠 &nbsp;AI / ML / Deep Learning</b></summary><br>
 
 <div align="center">
 
-**Languages**
-<br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**AI / ML / DL**
-<br/>
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -60,16 +80,28 @@
 ![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/YOLO%20%2F%20OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-**Generative AI / Agents**
-<br/>
+</div>
+</details>
+
+<details>
+<summary><b>🤖 &nbsp;Generative AI / Agents</b></summary><br>
+
+<div align="center">
+
 ![Claude](https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-2E2E2E?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 
-**Web & Tools**
-<br/>
+</div>
+</details>
+
+<details>
+<summary><b>🌐 &nbsp;Web & Tools</b></summary><br>
+
+<div align="center">
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -77,6 +109,20 @@
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 </div>
+</details>
+
+<details>
+<summary><b>💻 &nbsp;Languages</b></summary><br>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+</details>
 
 <br/>
 
@@ -99,11 +145,6 @@
 
 ### 🌟 Featured Projects
 
-| Project | What it does |
-|---|---|
-| 🤖 **[Elchai × Kimi K2.6 Assessment](https://github.com/Rxmshx/Kimi_Report)** | AI research assessment for an Elchai Group internship — benchmarked Moonshot AI's open-source Kimi K2.6 against Claude/GPT/Gemini and shipped an interactive proof-of-concept site with a phased adoption plan · [live demo](https://v0-kimi-report.vercel.app/) |
-| 🕵️ **[Skill Gap Radar](https://github.com/Rxmshx/Skill_Radar)** | AI platform that verifies resumes against real GitHub activity — BERT-based NER, semantic skill matching, a from-scratch BiLSTM proficiency classifier (99.68% val accuracy), and an LLM-generated learning roadmap |
-| 🛒 **[Retail Behavior Analytics](https://github.com/Rxmshx/Retail_Analysis)** | Real-time computer vision pipeline — YOLO11 product detection, StrongSORT shopper tracking, MediaPipe hand-interaction detection, InsightFace demographics, feeding a live Streamlit dashboard |
-| 📰 **[NewsLens](https://github.com/Rxmshx/NewsLens)** | NLP pipeline classifying news articles by category + sentiment using ML/DL models |
-| 🧤 **Sign Language Translation Glove** | Real-time gesture-to-text/speech ML model + IoT hardware glove — *"Most Socially Relevant Project," VIT-AP Expo 2025* (hardware build, no repo) |
-| ⛑️ **Worker Safety & Pollution Control** | Real-time IoT gas-detectio
+| &nbsp; | Project | What it does | Stack |
+|:---:|:---|:---|:---|
+| 🤖 | **[Elchai × Kimi K2.6 Assessment](https://github.com/Rxmshx/Kimi_Report)** | AI research assessment for an Elchai Group intern
