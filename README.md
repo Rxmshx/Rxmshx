@@ -8,6 +8,7 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ramsha-annam)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rxmshx)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramshaannam@yahoo.com)
@@ -86,12 +87,14 @@
 
 | Project | What it does |
 |---|---|
-| 🧾 **Invoice Automation Pipeline** | End-to-end agentic AI pipeline — OCR extraction, UAE VAT compliance checks, Claude-powered exception handling, Zoho Books OAuth2 integration |
-| 🕵️ **Skill Gap Radar** | AI SaaS that scores resumes & GitHub profiles against roles using Sentence Transformers, BiLSTM + attention, BERT-NER and a ChromaDB retrieval system |
-| 📰 **NewsLens** | NLP pipeline classifying news by category + sentiment using ML/DL models |
-| 🧤 **Sign Language Translation Glove** | Real-time gesture-to-text/speech ML model + IoT hardware glove — *"Most Socially Relevant Project," VIT-AP Expo 2025* |
-| 🛒 **Store & Customer Analysis (CV)** | YOLOv8 model analyzing retail CCTV footage for product recognition & customer behavior insights |
-| ⛑️ **Worker Safety & Pollution Control** | Real-time IoT gas-detection + CV fire-detection system — Top 50, SIH 2025 Finale |
+| 🤖 **[Elchai × Kimi K2.6 Assessment](https://github.com/Rxmshx/Kimi_Report)** | AI research assessment for an Elchai Group internship — benchmarked Moonshot AI's open-source Kimi K2.6 against Claude/GPT/Gemini and shipped an interactive proof-of-concept site with a phased adoption plan · [live demo](https://v0-kimi-report.vercel.app/) |
+| 🕵️ **[Skill Gap Radar](https://github.com/Rxmshx/Skill_Radar)** | AI platform that verifies resumes against real GitHub activity — BERT-based NER, semantic skill matching, a from-scratch BiLSTM proficiency classifier (99.68% val accuracy), and an LLM-generated learning roadmap |
+| 🛒 **[Retail Behavior Analytics](https://github.com/Rxmshx/Retail_Analysis)** | Real-time computer vision pipeline — YOLO11 product detection, StrongSORT shopper tracking, MediaPipe hand-interaction detection, InsightFace demographics, feeding a live Streamlit dashboard |
+| 📰 **[NewsLens](https://github.com/Rxmshx/NewsLens)** | NLP pipeline classifying news articles by category + sentiment using ML/DL models |
+| 🧤 **Sign Language Translation Glove** | Real-time gesture-to-text/speech ML model + IoT hardware glove — *"Most Socially Relevant Project," VIT-AP Expo 2025* (hardware build, no repo) |
+| ⛑️ **Worker Safety & Pollution Control** | Real-time IoT gas-detection + CV fire-detection system — Top 50, SIH 2025 Finale (hardware build, no repo) |
+
+<sub>Invoice Automation Pipeline (agentic OCR + Claude + Zoho Books) is in progress — not listed until it's actually working end-to-end.</sub>
 
 <br/>
 
