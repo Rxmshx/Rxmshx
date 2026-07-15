@@ -19,17 +19,23 @@
 
 <br/>
 
-### 🚀 About Me
+---
 
-- 🎓 B.Tech Computer Science @ **VIT** (2023–2027), GPA 3.4/4.0
-- 🧠 Building things across **AI/ML, Deep Learning, NLP, Computer Vision & Agentic AI**
-- 🏆 Top 50 finalist — **Smart India Hackathon** (2023, 2024 & 2025)
-- 🥇 "Most Socially Relevant Project" — Sign Language Translation Smart Glove
-- 📜 OCI Certified Data Science Professional · IBM AI Engineering Professional Certificate
-- 💼 Open to **internships & entry-level roles** in AI/ML, Data Science, Full-Stack — **available immediately**
-- 🗣️ English · Hindi · Telugu · German
+## ⚡ Quick Profile
+
+```yaml
+name      : Ramsha Annam
+location  : Dubai, UAE
+degree    : B.Tech Computer Science — VIT (2023–2027), GPA 3.4/4.0
+building  : Agentic AI pipelines · Computer vision systems · Full-stack apps
+awards    : Top 50, Smart India Hackathon (2023/24/25) · Most Socially Relevant Project
+languages : English · Hindi · Telugu · German
+open_to   : AI/ML & Data Science internships — available immediately
+```
 
 <br/>
+
+---
 
 ### 🎯 Current Focus
 
@@ -40,6 +46,8 @@
 - ⚡ Fun fact: **two of my hackathon projects were hardware builds — I like it when the code has to talk to a physical device**
 
 <br/>
+
+---
 
 ### 🏆 Recognition
 
@@ -65,6 +73,8 @@
 </div>
 
 <br/>
+
+---
 
 ### 🛠️ Tech Stack
 
@@ -124,7 +134,23 @@
 </div>
 </details>
 
+<details>
+<summary><b>🔧 &nbsp;Hardware, Tools & DevOps</b></summary><br>
+
+<div align="center">
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+</details>
+
 <br/>
+
+---
 
 ### 📊 GitHub Stats
 
@@ -134,17 +160,4 @@
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=rxmshx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=rxmshx&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
-
-<br/>
-
-### 🌟 Featured Projects
-
-| &nbsp; | Project | What it does | Stack |
-|:---:|:---|:---|:---|
-| 🤖 | **[Elchai × Kimi K2.6 Assessment](https://github.com/Rxmshx/Kimi_Report)** | AI research assessment for an Elchai Group intern
+<img src="https://streak-stats.demolab.com/?user=rxmshx&theme=tokyonight&hide_bo
