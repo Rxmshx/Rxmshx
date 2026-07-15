@@ -30,6 +30,16 @@
 
 <br/>
 
+### 🎯 Current Focus
+
+- 🔭 Working on: **an agentic AI research assessment for an Elchai Group internship (benchmarking open-source LLMs)**
+- 🌱 Learning: **Agentic AI orchestration & production-grade RAG systems**
+- 👯 Looking to collaborate on: **AI/ML projects that actually ship, not just notebooks**
+- 💬 Ask me about: **computer vision pipelines, NLP, or turning a messy dataset into a working model**
+- ⚡ Fun fact: **two of my hackathon projects were hardware builds — I like it when the code has to talk to a physical device**
+
+<br/>
+
 ### 🛠️ Tech Stack
 
 <div align="center">
@@ -81,6 +91,10 @@
 <img src="https://streak-stats.demolab.com/?user=rxmshx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=rxmshx&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
+
 <br/>
 
 ### 🌟 Featured Projects
@@ -92,24 +106,4 @@
 | 🛒 **[Retail Behavior Analytics](https://github.com/Rxmshx/Retail_Analysis)** | Real-time computer vision pipeline — YOLO11 product detection, StrongSORT shopper tracking, MediaPipe hand-interaction detection, InsightFace demographics, feeding a live Streamlit dashboard |
 | 📰 **[NewsLens](https://github.com/Rxmshx/NewsLens)** | NLP pipeline classifying news articles by category + sentiment using ML/DL models |
 | 🧤 **Sign Language Translation Glove** | Real-time gesture-to-text/speech ML model + IoT hardware glove — *"Most Socially Relevant Project," VIT-AP Expo 2025* (hardware build, no repo) |
-| ⛑️ **Worker Safety & Pollution Control** | Real-time IoT gas-detection + CV fire-detection system — Top 50, SIH 2025 Finale (hardware build, no repo) |
-
-<sub>Invoice Automation Pipeline (agentic OCR + Claude + Zoho Books) is in progress — not listed until it's actually working end-to-end.</sub>
-
-<br/>
-
-### 🏛️ Leadership
-
-- **Microsoft Student Club** — Executive Secretary & Deputy Tech Manager
-- **Google Developer Group (GDG)** — Club Manager, AIML/Data Analytics Wing
-- **Computer Society of India** — Web Development Coordinator
-
-<br/>
-
-<div align="center">
-
-💬 **Let's build something.** Reach out on [LinkedIn](https://linkedin.com/in/ramsha-annam) or drop a mail — always up for a good AI/ML conversation.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6D28D9&height=100&section=footer" width="100%"/>
-
-</div>
+| ⛑️ **Worker Safety & Pollution Control** | Real-time IoT gas-detectio
