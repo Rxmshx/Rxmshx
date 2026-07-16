@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://ramsha-annam-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ramsha-annam)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rxmshx)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramshaannam@yahoo.com)
@@ -160,4 +160,66 @@ open_to   : AI/ML & Data Science internships — available immediately
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=rxmshx&theme=tokyonight&hide_bo
+<img src="https://streak-stats.demolab.com/?user=rxmshx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=rxmshx&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
+
+<br/>
+
+---
+
+### 🌟 Featured Projects
+
+| &nbsp; | Project | What it does | Stack |
+|:---:|:---|:---|:---|
+| 🤖 | **[Elchai × Kimi K2.6 Assessment](https://github.com/Rxmshx/Kimi_Report)** | AI research assessment for an Elchai Group internship — benchmarked Moonshot AI's open-source Kimi K2.6 against Claude/GPT/Gemini and shipped an interactive proof-of-concept site with a phased adoption plan · [live demo](https://v0-kimi-report.vercel.app/) | `Python` `LLM Eval` |
+| 🕵️ | **[Skill Gap Radar](https://github.com/Rxmshx/Skill_Radar)** | AI platform that verifies resumes against real GitHub activity — BERT-based NER, semantic skill matching, a from-scratch BiLSTM proficiency classifier (99.68% val accuracy), and an LLM-generated learning roadmap | `Flask` `BERT` `FAISS` |
+| 🛒 | **[Retail Behavior Analytics](https://github.com/Rxmshx/Retail_Analysis)** | Real-time computer vision pipeline — YOLO11 product detection, StrongSORT shopper tracking, MediaPipe hand-interaction detection, InsightFace demographics, feeding a live Streamlit dashboard | `YOLO11` `StrongSORT` `Streamlit` |
+| 📰 | **[NewsLens](https://github.com/Rxmshx/NewsLens)** | NLP pipeline classifying news articles by category + sentiment using ML/DL models | `Python` `NLP` |
+| 🧤 | **Sign Language Translation Glove** | Real-time gesture-to-text/speech ML model + IoT hardware glove — *"Most Socially Relevant Project," VIT-AP Expo 2025* (hardware build, no repo) | `C++` `Arduino` `IoT` |
+| ⛑️ | **Worker Safety & Pollution Control** | Real-time IoT gas-detection + CV fire-detection system — Top 50, SIH 2025 Finale (hardware build, no repo) | `IoT` `OpenCV` |
+
+<sub>Invoice Automation Pipeline (agentic OCR + Claude + Zoho Books) is in progress — not listed until it's actually working end-to-end.</sub>
+
+<br/>
+
+---
+
+## 💼 Leadership & Experience
+
+<div align="center">
+
+| Role | Organisation | Period |
+|:---|:---|:---|
+| **Executive Secretary & Deputy Tech Manager** | Microsoft Student Club, VIT | 2024 – Present |
+| **Club Manager, AIML/Data Analytics Wing** | Google Developer Group (GDG), VIT | 2024 – Present |
+| **Web Development Coordinator** | Computer Society of India, VIT | 2023 – 2024 |
+
+</div>
+
+- Ran technical sessions and workshops for the Microsoft Student Club's AI/ML track
+- Led the AIML/Data Analytics wing's project pipeline at GDG, mentoring peers through applied ML builds
+- Built and maintained web properties for CSI as Web Development Coordinator
+
+<br/>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ramsha-annam)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rxmshx)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramshaannam@yahoo.com)
+
+<br><br>
+
+*Open to AI/ML internships, research collaborations, and interesting builds.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6D28D9&height=120&section=footer" width="100%"/>
+
+</div>
