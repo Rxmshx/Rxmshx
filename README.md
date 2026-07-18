@@ -26,8 +26,8 @@
 ```yaml
 name      : Ramsha Annam
 location  : Dubai, UAE
-degree    : B.Tech Computer Science — VIT (2023–2027), GPA 3.4/4.0
-building  : Agentic AI pipelines · Computer vision systems · Full-stack apps
+degree    : B.Tech Computer Science — VIT (2023–2027)
+building  : Agentic AI · Computer vision · Machine Learning . Web Development
 awards    : Top 50, Smart India Hackathon (2023/24/25) · Most Socially Relevant Project
 languages : English · Hindi · Telugu · German
 open_to   : AI/ML & Data Science internships — available immediately
@@ -39,7 +39,7 @@ open_to   : AI/ML & Data Science internships — available immediately
 
 ### 🎯 Current Focus
 
-- 🔭 Working on: **an agentic AI research assessment for an Elchai Group internship (benchmarking open-source LLMs)**
+- 🔭 Working on: **an agentic AI research for an Elchai Group internship (benchmarking open-source LLMs)**
 - 🌱 Learning: **Agentic AI orchestration & production-grade RAG systems**
 - 👯 Looking to collaborate on: **AI/ML projects that actually ship, not just notebooks**
 - 💬 Ask me about: **computer vision pipelines, NLP, or turning a messy dataset into a working model**
